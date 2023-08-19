@@ -1,0 +1,12 @@
+# This is the R Markdown file for the first chapter {#01-chap01}
+
+This is the `rmd` file for Chapter 1.
+
+## First level header
+The first level is generated using the `##` 
+
+### Second level header
+The second level is generated using the `###` 
+
+#### Third level header
+The third level is generated using the `####` 

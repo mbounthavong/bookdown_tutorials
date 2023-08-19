@@ -1,0 +1,10 @@
+# Second chapter example {#02-chap02}
+
+This is the second chapter for our `bookdown` project. 
+
+## Example reference
+This is an example for citing a reference in the body of the text. 
+
+Bounthavong and colleagues[@Bounthavong2017] reported that providers exposed to academic detailing had a greater rate of naloxone prescribing compared to providers who were unexposed to academic detailing.
+
+The official site for all the citation styles can be found in [Citation Style Library GitHub website](https://github.com/citation-style-language/styles).
